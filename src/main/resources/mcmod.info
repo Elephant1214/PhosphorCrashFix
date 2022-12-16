@@ -1,0 +1,18 @@
+[
+    {
+        "modid": "phosphorcrashfix",
+        "name": "Phosphor Crash Fix",
+        "description": "A simple coremod that fixes the crashes caused by Phosphor's outdated injection annotations when using newer versions of mixin.\n\nLogo by squidly#2406, bandage modified by scinorandex#9710",
+        "version": "1.0.0",
+        "mcversion": "1.12.2",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/phosphorcrashfix",
+        "updateUrl": "",
+        "authorList": [
+            "Elephant_1214"
+        ],
+        "credits": "Jellysquid for making Phosphor and Squidly and Scin for the logo",
+        "logoFile": "phosphorcrashfix_logo.png",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
